@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/svg+xml" href="/vite.svg">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="APT 威胁实体跨文本对齐工具 - 提供中英双语实体识别和对齐服务">
+    <meta name="keywords" content="APT, 威胁实体, 实体对齐, 文本分析">
+    <title>APT 威胁实体跨文本对齐工具</title>
+    
+    <!-- 预加载字体 -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+    <style>
+      /* 页面加载时的基础样式，避免闪烁 */
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: 'Inter', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+        background-color: #faf9f6;
+        color: #2c3e50;
+      }
+      
+      #app {
+        min-height: 100vh;
+      }
+      
+      /* 加载动画 */
+      .loading-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      }
+      
+      .loading-spinner {
+        width: 50px;
+        height: 50px;
+        border: 4px solid rgba(255, 255, 255, 0.3);
+        border-top-color: white;
+        border-radius: 50%;
+        animation: spin 0.8s linear infinite;
+      }
+      
+      @keyframes spin {
+        to { transform: rotate(360deg); }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
+

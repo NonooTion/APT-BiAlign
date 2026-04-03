@@ -1,0 +1,282 @@
+:root {
+    /* 基础色调 - 柔和暗色 */
+    --bg-primary: #1a1b1e;
+    --bg-secondary: #25262b;
+    --bg-tertiary: #2c2e33;
+    --bg-panel: #212529;
+
+    /* 文本颜色 - 降低对比度 */
+    --text-primary: #e1e3e5;
+    --text-secondary: #a0a5aa;
+    --text-tertiary: #5c5f66;
+    --text-placeholder: #4a4d55;
+
+    /* 边框与分割线 */
+    --border-color: #2c2e33;
+    --border-hover: #373a40;
+    --border-focus: #3399ff;
+
+    /* 功能色 - 科技蓝 */
+    --primary-color: #3399ff;
+    --primary-hover: #66b2ff;
+    --primary-glow: rgba(51, 153, 255, 0.15);
+
+    --success-color: #51cf66;
+    --success-bg: rgba(81, 207, 102, 0.1);
+    --success-border: rgba(81, 207, 102, 0.2);
+
+    --warning-color: #fcc419;
+    --warning-bg: rgba(252, 196, 25, 0.1);
+    --warning-border: rgba(252, 196, 25, 0.2);
+
+    --danger-color: #ff6b6b;
+    --danger-bg: rgba(255, 107, 107, 0.1);
+    --danger-border: rgba(255, 107, 107, 0.2);
+
+    --info-color: #868e96;
+    --info-bg: rgba(134, 142, 150, 0.1);
+    --info-border: rgba(134, 142, 150, 0.2);
+
+    /* Element Plus 变量覆盖 (最彻底的修复方式) */
+    --el-color-primary: var(--primary-color);
+    --el-color-success: var(--success-color);
+    --el-color-warning: var(--warning-color);
+    --el-color-danger: var(--danger-color);
+    --el-color-info: var(--info-color);
+
+    --el-bg-color: var(--bg-secondary);
+    --el-bg-color-overlay: var(--bg-secondary);
+    --el-bg-color-page: var(--bg-primary);
+    --el-fill-color-blank: var(--bg-tertiary);
+    /* 修复白色输入框的关键 */
+    /* 实体高亮色 - 专用 (Hacker Style 2.0 Neon) */
+    --apt-color: #FF0055;
+    --apt-bg: rgba(255, 0, 85, 0.1);
+    --apt-border: rgba(255, 0, 85, 0.5);
+
+    --tool-color: #00F3FF;
+    --tool-bg: rgba(0, 243, 255, 0.1);
+    --tool-border: rgba(0, 243, 255, 0.5);
+
+    --vuln-color: #BF00FF;
+    --vuln-bg: rgba(191, 0, 255, 0.1);
+    --vuln-border: rgba(191, 0, 255, 0.5);
+
+    --el-text-color-primary: var(--text-primary);
+    --el-text-color-regular: var(--text-secondary);
+    --el-text-color-secondary: var(--text-tertiary);
+
+    --el-border-color: var(--border-color);
+    --el-border-color-light: var(--border-color);
+    --el-border-color-lighter: var(--border-color);
+
+    /* 字体 */
+    --font-sans: 'Inter', 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+    --font-mono: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+
+    /* 尺寸 */
+    --header-height: 60px;
+    --sidebar-width: 280px;
+    --border-radius-sm: 0;
+    --border-radius-md: 0;
+    /* 全局硬朗风格 */
+    --border-radius-lg: 0;
+
+    /* 动画 */
+    --transition-fast: 0.15s ease;
+    --transition-normal: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    overflow: hidden;
+}
+
+/* 按钮重设计: Hacker Style Outline -> Solid Hover */
+.el-button {
+    font-family: var(--font-mono) !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.5px;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    text-transform: uppercase;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Primary Button: 默认实心科技蓝，带辉光 */
+.el-button--primary {
+    background-color: var(--primary-color) !important;
+    border: 1px solid var(--primary-color) !important;
+    color: #000 !important;
+    /* 黑色文字对比度更高 */
+    box-shadow: 0 0 10px rgba(51, 153, 255, 0.3);
+}
+
+.el-button--primary:hover {
+    background-color: var(--primary-hover) !important;
+    border-color: var(--primary-hover) !important;
+    box-shadow: 0 0 20px rgba(51, 153, 255, 0.6);
+    transform: translateY(-1px);
+}
+
+/* Success Button: 默认透明，绿色边框 */
+.el-button--success {
+    background-color: transparent !important;
+    border: 1px solid var(--success-color) !important;
+    color: var(--success-color) !important;
+}
+
+.el-button--success:hover {
+    background-color: var(--success-color) !important;
+    color: #000 !important;
+    box-shadow: 0 0 15px rgba(81, 207, 102, 0.4);
+}
+
+/* Danger Button: 默认透明，红色边框 */
+.el-button--danger {
+    background-color: transparent !important;
+    border: 1px solid var(--danger-color) !important;
+    color: var(--danger-color) !important;
+}
+
+.el-button--danger:hover {
+    background-color: var(--danger-color) !important;
+    color: #000 !important;
+    box-shadow: 0 0 15px rgba(255, 107, 107, 0.4);
+}
+
+/* Info/Default Button: 默认透明，灰色边框 */
+.el-button--info,
+.el-button--default,
+.el-button:not(.el-button--primary):not(.el-button--success):not(.el-button--danger):not(.el-button--warning) {
+    background-color: transparent !important;
+    border: 1px solid var(--border-hover) !important;
+    color: var(--text-secondary) !important;
+}
+
+.el-button--info:hover,
+.el-button--default:hover,
+.el-button:not(.el-button--primary):not(.el-button--success):not(.el-button--danger):not(.el-button--warning):hover {
+    border-color: var(--text-primary) !important;
+    color: var(--text-primary) !important;
+    background-color: rgba(255, 255, 255, 0.05) !important;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+/* 输入框样式 - 确保无圆角 */
+.el-input__wrapper,
+.el-textarea__inner {
+    border-radius: 0 !important;
+    background-color: var(--el-fill-color-blank) !important;
+}
+
+/* Input Number 加减按钮修复 */
+.el-input-number__decrease,
+.el-input-number__increase {
+    background-color: var(--bg-tertiary) !important;
+    border-color: var(--border-color) !important;
+    color: var(--primary-color) !important;
+    border-radius: 0 !important;
+}
+
+.el-input-number__decrease:hover,
+.el-input-number__increase:hover {
+    color: var(--primary-hover) !important;
+    background-color: var(--bg-secondary) !important;
+}
+
+.el-input-number .el-input__wrapper {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+/* 下拉菜单 & 弹出层 */
+.el-select__popper,
+.el-dropdown__popper,
+.el-popper,
+.el-time-panel,
+.el-date-picker {
+    border-radius: 0 !important;
+    border: 1px solid var(--border-color) !important;
+}
+
+.el-popper__arrow {
+    display: none !important;
+    /* 移除箭头，更硬朗 */
+}
+
+/* 分页组件 */
+.el-pagination.is-background .el-pager li {
+    border-radius: 0 !important;
+    background-color: var(--bg-tertiary) !important;
+    border: 1px solid var(--border-color) !important;
+}
+
+.el-pagination.is-background .el-pager li.is-active {
+    background-color: var(--primary-color) !important;
+    color: #000 !important;
+    border-color: var(--primary-color) !important;
+    font-weight: bold;
+}
+
+/* Tabs */
+.el-tabs--border-card {
+    border: 1px solid var(--border-color) !important;
+    border-radius: 0 !important;
+}
+
+.el-tabs__item.is-active {
+    color: var(--primary-color) !important;
+}
+
+.el-tabs--border-card>.el-tabs__header {
+    background-color: var(--bg-tertiary) !important;
+    border-bottom: 1px solid var(--border-color) !important;
+}
+
+.el-tabs--border-card>.el-tabs__header .el-tabs__item.is-active {
+    color: var(--primary-color) !important;
+    background-color: var(--bg-secondary) !important;
+    border-right-color: var(--border-color) !important;
+    border-left-color: var(--border-color) !important;
+}
+
+/* 消息提示框 */
+.el-message-box,
+.el-dialog {
+    border-radius: 0 !important;
+    border: 1px solid var(--primary-color-dim, var(--border-color)) !important;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5) !important;
+    background-color: var(--bg-secondary) !important;
+}
+
+/* 扫描线动画效果 - 可用于某些容器 */
+@keyframes scanline {
+    0% {
+        background-position: 0% 0%;
+    }
+
+    100% {
+        background-position: 0% 100%;
+    }
+}
+
+/* 滚动条 */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--border-hover);
+    border-radius: 0;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--bg-primary);
+}

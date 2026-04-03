@@ -1,0 +1,30 @@
+In March 2026, our SOC detected suspicious traffic linked to Fancy Bear (APT-C-27, aka Sofacy).
+攻击者在初始入侵阶段使用了 spear phishing，并投递了 Poison Ivy 后门样本。
+We also observed references to Lazarus Group (APT-38 / Chollima) in lateral movement logs.
+
+关键时间线 / Timeline:
+- 2026-03-12: First alert triggered by abnormal PowerShell command.
+- 2026-03-13: 检测到疑似 CVE-2021-1234 利用链。
+- 2026-03-14: A second exploit attempt referenced CVE-2023-5678.
+- 2026-03-15: Blue team isolated two hosts and blocked C2 callback.
+
+实体与别名 / Entities & Aliases:
+1) Fancy Bear, APT-C-27, Sofacy, 黄金鼠
+2) Lazarus Group, APT-38, Chollima, 拉撒路组织
+3) FIN7 (possible overlap in tooling, needs verification)
+
+工具与工件 / Tools & Artifacts:
+- Poison Ivy RAT
+- Data Stealer module
+- Webshell dropper
+- suspicious process: svchost.exe /proc:APT-C-27
+
+基础设施 / Infrastructure:
+- C2: command.evil.com (10.0.0.1)
+- Backup C2: control.badactor.net (172.16.0.1)
+- IOC sample hash: SHA256 1a2b3c4d5e6f7g8h9i0jk
+
+噪声与拼写变体（用于测试鲁棒性）:
+- Fkncy Bcar (typo of Fancy Bear)
+- Lazrus Grop (typo of Lazarus Group)
+- APT C 27 (spacing variant of APT-C-27)

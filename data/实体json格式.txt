@@ -1,0 +1,8 @@
+ {
+  "entity_type": "字符串（仅可选：apt_organization/attack_tool/vulnerability）",
+  "cn_core": "字符串（实体中文核心标准名称）",
+  "en_core": "字符串（实体英文核心标准名称）",
+  "description": "字符串（实体关键信息描述，如漏洞CVE/工具关联APT/组织所属地域等）",
+  "zh_variants": ["字符串（中文变体，含别名/简称/拼写变体等）"],
+  "en_variants": ["字符串（英文变体，含别名/缩写/大小写/拼写变体等）"]
+}

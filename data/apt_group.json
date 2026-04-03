@@ -1,0 +1,2565 @@
+[
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "admin@338组织",
+    "en_core": "admin@338",
+    "description": "中国背景的网络威胁组织，以新闻事件为诱饵投递恶意软件，主要针对金融、经济和贸易政策相关机构，使用PoisonIvy等公开RAT及非公开后门",
+    "zh_variants": [],
+    "en_variants": [
+      "admin@338",
+      "G0018"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Agrius组织",
+    "en_core": "Agrius",
+    "description": "伊朗威胁行动者，2020年起活跃，在中东开展勒索软件和擦除器攻击，重点针对以色列目标，关联伊朗情报和安全部（MOIS）",
+    "zh_variants": [],
+    "en_variants": [
+      "Agrius",
+      "Pink Sandstorm",
+      "AMERICIUM",
+      "Agonizing Serpens",
+      "BlackShadow",
+      "G1030"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Ajax安全团队",
+    "en_core": "Ajax Security Team",
+    "description": "伊朗背景组织，至少2010年起活跃，2014年从网站篡改转向基于恶意软件的网络间谍活动，针对美国国防工业基地和伊朗反审查技术用户",
+    "zh_variants": [
+      "Ajax安全团队"
+    ],
+    "en_variants": [
+      "Ajax Security Team",
+      "Operation Woolen-Goldfish",
+      "AjaxTM",
+      "Rocket Kitten",
+      "Flying Kitten",
+      "Operation Saffron Rose",
+      "G0130"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Akira勒索组织",
+    "en_core": "Akira",
+    "description": "2023年3月起活跃的勒索软件变体及部署实体，利用泄露凭证获取初始访问，采用双重勒索模式，针对Windows/VMWare ESXi，与Conti勒索软件存在重叠",
+    "zh_variants": [
+      "Akira勒索组织"
+    ],
+    "en_variants": [
+      "Akira",
+      "GOLD SAHARA",
+      "PUNK SPIDER",
+      "Howling Scorpius",
+      "G1024"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "ALLANITE组织",
+    "en_core": "ALLANITE",
+    "description": "疑似俄罗斯网络间谍组织，主要针对美英电力公用事业部门，战术技术与Dragonfly相似，但无破坏性能力，旨在获取ICS流程理解并维持持久性",
+    "zh_variants": [],
+    "en_variants": [
+      "ALLANITE",
+      "Palmetto Fusion",
+      "G1000"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Andariel组织",
+    "en_core": "Andariel",
+    "description": "朝鲜国家支持的威胁组织，2009年起活跃，主要针对韩国政府、军方及企业开展破坏性攻击，也针对金融机构实施网络金融操作，隶属于Lazarus Group，关联朝鲜侦察总局",
+    "zh_variants": [
+      "安达尔组织"
+    ],
+    "en_variants": [
+      "Andariel",
+      "Silent Chollima",
+      "PLUTONIUM",
+      "Onyx Sleet",
+      "G0138"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Aoqin Dragon组织",
+    "en_core": "Aoqin Dragon",
+    "description": "疑似中国网络间谍组织，2013年起活跃，主要针对澳、柬、港、新、越的政府、教育和电信机构，与UNC94存在潜在关联",
+    "zh_variants": [
+      "敖钦龙组织"
+    ],
+    "en_variants": [
+      "Aoqin Dragon",
+      "G1007"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "AppleJeus组织",
+    "en_core": "AppleJeus",
+    "description": "朝鲜国家支持的威胁组织，隶属于侦察总局，Lazarus Group旗下，2018年起活跃，聚焦加密货币行业敛财，主导3CX供应链攻击，结合恶意加密货币软件和钓鱼攻击",
+    "zh_variants": [],
+    "en_variants": [
+      "AppleJeus",
+      "Gleaming Pisces",
+      "Citrine Sleet",
+      "UNC1720",
+      "UNC4736",
+      "G1049"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "APT-C-23组织",
+    "en_core": "APT-C-23",
+    "description": "2014年起活跃的威胁组织，主要针对中东（含以色列军事资产），2017年起开发针对Android和iOS的移动间谍软件",
+    "zh_variants": [],
+    "en_variants": [
+      "APT-C-23",
+      "Mantis",
+      "Arid Viper",
+      "Desert Falcon",
+      "TAG-63",
+      "Grey Karkadann",
+      "Big Bang APT",
+      "Two-tailed Scorpion",
+      "G1028"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "APT-C-36组织",
+    "en_core": "APT-C-36",
+    "description": "疑似南美间谍组织，2018年起活跃，主要针对哥伦比亚政府机构及金融、石油、专业制造业龙头企业",
+    "zh_variants": [],
+    "en_variants": [
+      "APT-C-36",
+      "Blind Eagle",
+      "G0099"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "APT1组织",
+    "en_core": "APT1",
+    "description": "中国威胁组织，归属中国人民解放军总参谋部三部二局（61398部队）",
+    "zh_variants": [],
+    "en_variants": [
+      "APT1",
+      "Comment Crew",
+      "Comment Group",
+      "Comment Panda",
+      "G0006"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "APT12组织",
+    "en_core": "APT12",
+    "description": "中国背景威胁组织，针对媒体、高科技企业及多国政府开展攻击",
+    "zh_variants": [],
+    "en_variants": [
+      "APT12",
+      "IXESHE",
+      "DynCalc",
+      "Numbered Panda",
+      "DNSCALC",
+      "G0005"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "APT16组织",
+    "en_core": "APT16",
+    "description": "中国背景威胁组织，针对日本和中国台湾地区机构发起鱼叉式钓鱼攻击",
+    "zh_variants": [],
+    "en_variants": [
+      "APT16",
+      "G0023"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "APT17组织",
+    "en_core": "APT17",
+    "description": "中国背景威胁组织，针对美国政府、国防工业、律所、IT企业、矿业公司和非政府组织实施网络入侵",
+    "zh_variants": [],
+    "en_variants": [
+      "APT17",
+      "Deputy Dog",
+      "G0025"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "APT18组织",
+    "en_core": "APT18",
+    "description": "2009年起活跃的威胁组织，针对科技、制造、人权组织、政府、医疗等多行业开展攻击",
+    "zh_variants": [],
+    "en_variants": [
+      "APT18",
+      "TG-0416",
+      "Dynamite Panda",
+      "Threat Group-0416",
+      "G0026"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "APT19组织",
+    "en_core": "APT19",
+    "description": "中国背景威胁组织，针对国防、金融、能源、制药等多行业攻击，2017年钓鱼攻击7家律所和投资公司，部分分析师认为其与Deep Panda为同一组织（未证实）",
+    "zh_variants": [],
+    "en_variants": [
+      "APT19",
+      "Codoso",
+      "C0d0so0",
+      "Codoso Team",
+      "Sunshop Group",
+      "G0073"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "APT28组织",
+    "en_core": "APT28",
+    "description": "俄罗斯联邦武装力量总参谋部情报总局（GRU）26165部队所属威胁组织，2004年起活跃，2016年干预美国大选，2018年被美方起诉相关人员，与Sandworm Team协同作案",
+    "zh_variants": [],
+    "en_variants": [
+      "APT28",
+      "IRON TWILIGHT",
+      "SNAKEMACKEREL",
+      "Swallowtail",
+      "Group 74",
+      "Sednit",
+      "Sofacy",
+      "Pawn Storm",
+      "Fancy Bear",
+      "STRONTIUM",
+      "Tsar Team",
+      "Threat Group-4127",
+      "TG-4127",
+      "Forest Blizzard",
+      "FROZENLAKE",
+      "GruesomeLarch",
+      "G0007"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "APT29组织",
+    "en_core": "APT29",
+    "description": "俄罗斯对外情报局（SVR）所属威胁组织，2008年起活跃，针对欧洲及北约国家政府、研究机构、智库，2015年入侵美国民主党全国委员会，关联SolarWinds攻击事件",
+    "zh_variants": [],
+    "en_variants": [
+      "APT29",
+      "IRON RITUAL",
+      "IRON HEMLOCK",
+      "NobleBaron",
+      "Dark Halo",
+      "NOBELIUM",
+      "UNC2452",
+      "YTTRIUM",
+      "The Dukes",
+      "Cozy Bear",
+      "CozyDuke",
+      "SolarStorm",
+      "Blue Kitsune",
+      "UNC3524",
+      "Midnight Blizzard",
+      "G0016"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "APT3组织",
+    "en_core": "APT3",
+    "description": "中国背景威胁组织，归属中国国家安全部，2015年6月起攻击目标从美国转向中国香港政治组织，关联Operation Clandestine Fox等行动",
+    "zh_variants": [],
+    "en_variants": [
+      "APT3",
+      "Gothic Panda",
+      "Pirpi",
+      "UPS Team",
+      "Buckeye",
+      "Threat Group-0110",
+      "TG-0110",
+      "G0022"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "APT30组织",
+    "en_core": "APT30",
+    "description": "疑似关联中国政府的威胁组织，与Naikon有部分特征重合但非同一组织",
+    "zh_variants": [],
+    "en_variants": [
+      "APT30",
+      "G0013"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "APT32组织",
+    "en_core": "APT32",
+    "description": "疑似越南背景威胁组织，2014年起活跃，针对东南亚多国私营企业、外国政府、异见人士和记者，大量利用战略性网页篡改攻击受害者",
+    "zh_variants": [],
+    "en_variants": [
+      "APT32",
+      "SeaLotus",
+      "OceanLotus",
+      "APT-C-00",
+      "Canvas Cyclone",
+      "BISMUTH",
+      "G0050"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "APT33组织",
+    "en_core": "APT33",
+    "description": "疑似伊朗威胁组织，2013年起活跃，针对美、沙、韩多行业机构，重点关注航空和能源领域",
+    "zh_variants": [],
+    "en_variants": [
+      "APT33",
+      "HOLMIUM",
+      "Elfin",
+      "Peach Sandstorm",
+      "G0064"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "APT37组织",
+    "en_core": "APT37",
+    "description": "朝鲜国家支持的网络间谍组织，2012年起活跃，主要针对韩国，也波及日、越、俄等多国，关联多个攻击行动，部分研究者将其归入Lazarus Group umbrella",
+    "zh_variants": [],
+    "en_variants": [
+      "APT37",
+      "InkySquid",
+      "ScarCruft",
+      "Reaper",
+      "Group123",
+      "TEMP.Reaper",
+      "Ricochet Chollima",
+      "G0067"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "APT38组织",
+    "en_core": "APT38",
+    "description": "朝鲜国家支持的金融网络犯罪组织，归属侦察总局，2014年起活跃，针对全球38国金融机构，主导2016年孟加拉国央行8100万美元盗窃案，部分攻击具有破坏性，部分研究者将其归入Lazarus Group umbrella",
+    "zh_variants": [],
+    "en_variants": [
+      "APT38",
+      "NICKEL GLADSTONE",
+      "BeagleBoyz",
+      "Bluenoroff",
+      "Stardust Chollima",
+      "Sapphire Sleet",
+      "COPERNICIUM",
+      "G0082"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "APT39组织",
+    "en_core": "APT39",
+    "description": "伊朗情报和安全部（MOIS）通过Rana Intelligence Computing开展的网络间谍活动代号，2014年起活跃，针对全球多地区旅行、酒店、学术、电信行业，追踪MOIS认定的威胁目标",
+    "zh_variants": [],
+    "en_variants": [
+      "APT39",
+      "ITG07",
+      "Chafer",
+      "Remix Kitten",
+      "G0087"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "APT41组织",
+    "en_core": "APT41",
+    "description": "中国国家支持的间谍组织，同时开展经济动机攻击，2012年起活跃，针对14国医疗、电信、科技等多行业，与BARIUM、Winnti Group部分重叠",
+    "zh_variants": [],
+    "en_variants": [
+      "APT41",
+      "Wicked Panda",
+      "Brass Typhoon",
+      "BARIUM",
+      "G0096"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "APT42组织",
+    "en_core": "APT42",
+    "description": "伊朗支持的威胁组织，2015年起活跃，主要针对中东，通过钓鱼邮件/PINEFLOWER安卓恶意软件发起攻击，利用原生功能和开源工具窃取数据，与Magic Hound有重叠但为不同实体",
+    "zh_variants": [],
+    "en_variants": [
+      "APT42",
+      "G1044"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "APT5组织",
+    "en_core": "APT5",
+    "description": "中国背景间谍组织，2007年起活跃，主要针对美欧亚电信、航空航天、国防行业，擅长利用零日漏洞攻陷网络设备",
+    "zh_variants": [],
+    "en_variants": [
+      "APT5",
+      "Mulberry Typhoon",
+      "MANGANESE",
+      "BRONZE FLEETWOOD",
+      "Keyhole Panda",
+      "UNC2630",
+      "G1023"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Aquatic Panda组织",
+    "en_core": "Aquatic Panda",
+    "description": "疑似中国背景威胁组织，兼具情报收集和工业间谍使命，2020年5月起活跃，主要针对电信、科技、政府机构",
+    "zh_variants": [
+      "水生熊猫组织"
+    ],
+    "en_variants": [
+      "Aquatic Panda",
+      "G0143"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Axiom组织",
+    "en_core": "Axiom",
+    "description": "疑似中国网络间谍组织，2008年起活跃，针对航空航天、国防、政府、制造、媒体行业，与Winnti Group有部分重叠但为不同组织",
+    "zh_variants": [],
+    "en_variants": [
+      "Axiom",
+      "Group 72",
+      "G0001"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "BackdoorDiplomacy组织",
+    "en_core": "BackdoorDiplomacy",
+    "description": "网络间谍组织，2017年起活跃，针对非、欧、中东、亚的外交部和电信公司",
+    "zh_variants": [
+      "后门外交组织"
+    ],
+    "en_variants": [
+      "BackdoorDiplomacy",
+      "G0135"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "BITTER组织",
+    "en_core": "BITTER",
+    "description": "疑似南亚网络间谍组织，2013年起活跃，针对巴、中、孟、沙的政府、能源、工程机构",
+    "zh_variants": [],
+    "en_variants": [
+      "BITTER",
+      "T-APT-17",
+      "G1002"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "BlackByte勒索组织",
+    "en_core": "BlackByte",
+    "description": "2021年起活跃的勒索软件威胁行动者，早期使用通用加密密钥（已推出通用解密器），后续版本加密机制更完善，针对北美关键基础设施",
+    "zh_variants": [
+      "黑字节勒索组织"
+    ],
+    "en_variants": [
+      "BlackByte",
+      "Hecamede",
+      "G1043"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "BlackOasis组织",
+    "en_core": "BlackOasis",
+    "description": "中东威胁组织，疑似Gamma Group客户，关注联合国知名人士、异见博主等，与NEODYMIUM关联密切但非别名",
+    "zh_variants": [
+      "黑绿洲组织"
+    ],
+    "en_variants": [
+      "BlackOasis",
+      "G0063"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "BlackTech组织",
+    "en_core": "BlackTech",
+    "description": "疑似中国网络间谍组织，2013年起活跃，主要针对东亚（台、日、港）和美国多行业机构，结合自定义恶意软件、双用途工具和就地取材战术",
+    "zh_variants": [
+      "黑科技组织"
+    ],
+    "en_variants": [
+      "BlackTech",
+      "Palmerworm",
+      "G0098"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Blue Mockingbird组织",
+    "en_core": "Blue Mockingbird",
+    "description": "2019年12月起出现的活动集群，针对Windows系统投放DLL格式的门罗币挖矿载荷",
+    "zh_variants": [
+      "蓝嘲鸫组织"
+    ],
+    "en_variants": [
+      "Blue Mockingbird",
+      "G0108"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Bouncing Golf组织",
+    "en_core": "Bouncing Golf",
+    "description": "针对中东国家的网络间谍活动组织",
+    "zh_variants": [
+      "弹跳高尔夫组织"
+    ],
+    "en_variants": [
+      "Bouncing Golf",
+      "G0097"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "BRONZE BUTLER组织",
+    "en_core": "BRONZE BUTLER",
+    "description": "疑似中国背景网络间谍组织，2008年起活跃，主要针对日本政府、生物技术、电子制造、工业化学机构",
+    "zh_variants": [
+      "青铜管家组织"
+    ],
+    "en_variants": [
+      "BRONZE BUTLER",
+      "REDBALDKNIGHT",
+      "Tick",
+      "G0060"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Carbanak组织",
+    "en_core": "Carbanak",
+    "description": "2013年起活跃的网络犯罪组织，使用Carbanak恶意软件攻击金融机构，与Cobalt Group、FIN7存在潜在关联",
+    "zh_variants": [],
+    "en_variants": [
+      "Carbanak",
+      "Anunak",
+      "G0008"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Chimera组织",
+    "en_core": "Chimera",
+    "description": "疑似中国背景威胁组织，2018年起活跃，针对中国台湾地区半导体行业和航空业数据",
+    "zh_variants": [
+      "奇美拉组织"
+    ],
+    "en_variants": [
+      "Chimera",
+      "G0114"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Cinnamon Tempest组织",
+    "en_core": "Cinnamon Tempest",
+    "description": "中国背景威胁组织，2021年起活跃，部署基于泄露Babuk源码的勒索软件，非联盟模式，动机或为知识产权窃取/网络间谍而非敛财",
+    "zh_variants": [
+      "肉桂风暴组织"
+    ],
+    "en_variants": [
+      "Cinnamon Tempest",
+      "DEV-0401",
+      "Emperor Dragonfly",
+      "BRONZE STARLIGHT",
+      "G1021"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Cleaver组织",
+    "en_core": "Cleaver",
+    "description": "伊朗背景威胁组织，主导Operation Cleaver行动，与TG-2889存在关联",
+    "zh_variants": [
+      "劈刀组织"
+    ],
+    "en_variants": [
+      "Cleaver",
+      "Threat Group 2889",
+      "TG-2889",
+      "G0003"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Cobalt Group组织",
+    "en_core": "Cobalt Group",
+    "description": "经济动机威胁组织，2016年起活跃，针对东欧、中亚、东南亚银行，攻击ATM、SWIFT等系统，2018年头目在西班牙被捕但组织仍活跃，与Carbanak关联",
+    "zh_variants": [
+      "钴组织"
+    ],
+    "en_variants": [
+      "Cobalt Group",
+      "GOLD KINGSWOOD",
+      "Cobalt Gang",
+      "Cobalt Spider",
+      "G0080"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Confucius组织",
+    "en_core": "Confucius",
+    "description": "网络间谍组织，2013年起活跃，主要针对南亚军方、知名人士、商界、政府机构，与Patchwork的自定义恶意软件和目标存在相似性",
+    "zh_variants": [
+      "孔子组织"
+    ],
+    "en_variants": [
+      "Confucius",
+      "Confucius APT",
+      "G0142"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "CURIUM组织",
+    "en_core": "CURIUM",
+    "description": "伊朗威胁组织，2018年7月起活跃，2019年9月首次披露，针对中东IT服务提供商，通过社交媒体长期建立信任后投递恶意软件",
+    "zh_variants": [
+      "锔组织"
+    ],
+    "en_variants": [
+      "CURIUM",
+      "Crimson Sandstorm",
+      "TA456",
+      "Tortoise Shell",
+      "Yellow Liderc",
+      "G1012"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "CyberAv3ngers组织",
+    "en_core": "CyberAv3ngers",
+    "description": "疑似伊朗伊斯兰革命卫队关联APT组织，2020年起活跃，虚假宣称攻陷以色列关键基础设施，2023年全球攻击Unitronics PLC/HMI，篡改设备界面",
+    "zh_variants": [
+      "网络复仇者组织"
+    ],
+    "en_variants": [
+      "CyberAv3ngers",
+      "Soldiers of Soloman",
+      "G1027"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Ember Bear组织",
+    "en_core": "Ember Bear",
+    "description": "俄罗斯国家支持的网络间谍组织，隶属GRU 29155部队，2020年起活跃，针对乌克兰政府/电信及欧美关键基础设施，主导2022年初乌克兰WhisperGate擦除器攻击，与Saint Bear为不同实体",
+    "zh_variants": [
+      "余烬熊组织"
+    ],
+    "en_variants": [
+      "Ember Bear",
+      "UNC2589",
+      "Bleeding Bear",
+      "DEV-0586",
+      "Cadet Blizzard",
+      "Frozenvista",
+      "UAC-0056",
+      "G1003"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Equation组织",
+    "en_core": "Equation",
+    "description": "高级威胁组织，使用多款远程访问工具，擅长零日漏洞和硬盘固件覆写技术",
+    "zh_variants": [
+      "方程式组织"
+    ],
+    "en_variants": [
+      "Equation",
+      "G0020"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Evilnum组织",
+    "en_core": "Evilnum",
+    "description": "经济动机威胁组织，2018年起活跃",
+    "zh_variants": [
+      "邪恶数字组织"
+    ],
+    "en_variants": [
+      "Evilnum",
+      "G0120"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "EXOTIC LILY组织",
+    "en_core": "EXOTIC LILY",
+    "description": "经济动机组织，与Wizard Spider关联密切，部署Conti/Diavol勒索软件，2021年9月起活跃，可能为初始访问代理，针对IT、网络安全、医疗等多行业",
+    "zh_variants": [
+      "异域百合组织"
+    ],
+    "en_variants": [
+      "EXOTIC LILY",
+      "G1011"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Ferocious Kitten组织",
+    "en_core": "Ferocious Kitten",
+    "description": "2015年起活跃的威胁组织，主要针对伊朗波斯语使用者",
+    "zh_variants": [
+      "凶猛小猫组织"
+    ],
+    "en_variants": [
+      "Ferocious Kitten",
+      "G0137"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "FIN10组织",
+    "en_core": "FIN10",
+    "description": "经济动机威胁组织，2013-2016年针对北美组织，通过窃取数据勒索受害者",
+    "zh_variants": [],
+    "en_variants": [
+      "FIN10",
+      "G0051"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "FIN13组织",
+    "en_core": "FIN13",
+    "description": "经济动机网络威胁组织，2016年起针对墨及拉美金融、零售、酒店行业，窃取知识产权、金融数据、并购信息、个人身份信息",
+    "zh_variants": [],
+    "en_variants": [
+      "FIN13",
+      "Elephant Beetle",
+      "G1016"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "FIN4组织",
+    "en_core": "FIN4",
+    "description": "经济动机威胁组织，2013年起针对医疗/制药行业金融市场机密信息，不部署持久恶意软件，聚焦窃取邮件/非公开通信凭证",
+    "zh_variants": [],
+    "en_variants": [
+      "FIN4",
+      "G0085"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "FIN5组织",
+    "en_core": "FIN5",
+    "description": "经济动机威胁组织，2008年起活跃，针对餐饮、博彩、酒店行业，窃取个人身份信息和支付卡信息，成员疑似说俄语",
+    "zh_variants": [],
+    "en_variants": [
+      "FIN5",
+      "G0053"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "FIN6组织",
+    "en_core": "FIN6",
+    "description": "网络犯罪组织，窃取支付卡数据在地下市场牟利，针对性攻击酒店/零售POS系统",
+    "zh_variants": [],
+    "en_variants": [
+      "FIN6",
+      "Magecart Group 6",
+      "ITG08",
+      "Skeleton Spider",
+      "TAAL",
+      "Camouflage Tempest",
+      "G0037"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "FIN7组织",
+    "en_core": "FIN7",
+    "description": "经济动机威胁组织，2013年起活跃，针对美国多行业，通过Combi Security前台公司运作，2020年转向BGH并使用REvil/Darkside勒索软件，与Carbanak Group潜在关联但单独追踪",
+    "zh_variants": [],
+    "en_variants": [
+      "FIN7",
+      "GOLD NIAGARA",
+      "ITG14",
+      "Carbon Spider",
+      "ELBRUS",
+      "Sangria Tempest",
+      "G0046"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "FIN8组织",
+    "en_core": "FIN8",
+    "description": "经济动机威胁组织，2016年1月起活跃，针对酒店、零售等多行业，2021年6月从攻击POS转向分发多款勒索软件",
+    "zh_variants": [],
+    "en_variants": [
+      "FIN8",
+      "Syssphinx",
+      "G0061"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Fox Kitten组织",
+    "en_core": "Fox Kitten",
+    "description": "疑似伊朗政府关联威胁行动者，2017年起活跃，针对中东、北非、欧、澳、北美多行业机构",
+    "zh_variants": [
+      "狐狸小猫组织"
+    ],
+    "en_variants": [
+      "Fox Kitten",
+      "UNC757",
+      "Parisite",
+      "Pioneer Kitten",
+      "RUBIDIUM",
+      "Lemon Sandstorm",
+      "G0117"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "GALLIUM组织",
+    "en_core": "GALLIUM",
+    "description": "网络间谍组织，2012年起活跃，主要针对多国电信、金融、政府机构，主导Operation Soft Cell行动，疑似中国国家支持组织",
+    "zh_variants": [
+      "镓组织"
+    ],
+    "en_variants": [
+      "GALLIUM",
+      "Granite Typhoon",
+      "G0093"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Gallmaker组织",
+    "en_core": "Gallmaker",
+    "description": "网络间谍组织，2017年12月起活跃，针对中东国防、军事、政府机构",
+    "zh_variants": [
+      "胆汁制造者组织"
+    ],
+    "en_variants": [
+      "Gallmaker",
+      "G0084"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Gamaredon Group组织",
+    "en_core": "Gamaredon Group",
+    "description": "疑似俄罗斯网络间谍组织，2013年起活跃，针对乌克兰多机构，2021年11月被乌政府归为俄罗斯FSB 18中心，名称源于'Armageddon'拼写错误",
+    "zh_variants": [],
+    "en_variants": [
+      "Gamaredon Group",
+      "IRON TILDEN",
+      "Primitive Bear",
+      "ACTINIUM",
+      "Armageddon",
+      "Shuckworm",
+      "DEV-0157",
+      "Aqua Blizzard",
+      "G0047"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "GCMAN组织",
+    "en_core": "GCMAN",
+    "description": "针对银行发起攻击，旨在将资金转移至电子货币服务的威胁组织",
+    "zh_variants": [],
+    "en_variants": [
+      "GCMAN",
+      "G0036"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "GOLD SOUTHFIELD组织",
+    "en_core": "GOLD SOUTHFIELD",
+    "description": "经济动机威胁组织，2018年起活跃，运营REvil勒索软件即服务（RaaS），2020年初起采用数据窃取+泄露勒索模式",
+    "zh_variants": [
+      "黄金南田组织"
+    ],
+    "en_variants": [
+      "GOLD SOUTHFIELD",
+      "Pinchy Spider",
+      "G0115"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Gorgon Group组织",
+    "en_core": "Gorgon Group",
+    "description": "疑似巴基斯坦背景威胁组织，开展犯罪和定向攻击，针对英、西、俄、美政府机构",
+    "zh_variants": [
+      "戈耳工组织"
+    ],
+    "en_variants": [
+      "Gorgon Group",
+      "G0078"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Group5组织",
+    "en_core": "Group5",
+    "description": "疑似伊朗关联威胁组织（归因未确认），针对叙利亚反对派相关人员，使用njRAT等RAT工具，采用叙/伊主题钓鱼和水坑攻击",
+    "zh_variants": [],
+    "en_variants": [
+      "Group5",
+      "G0043"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "HAFNIUM组织",
+    "en_core": "HAFNIUM",
+    "description": "疑似中国国家支持的网络间谍组织，2021年1月起活跃，主要针对美国多行业机构，利用边缘设备漏洞快速开发利用工具，攻击远程管理工具和云软件获取初始访问",
+    "zh_variants": [
+      "铪组织"
+    ],
+    "en_variants": [
+      "HAFNIUM",
+      "Operation Exchange Marauder",
+      "Silk Typhoon",
+      "G0125"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "HEXANE组织",
+    "en_core": "HEXANE",
+    "description": "网络间谍威胁组织，2017年起活跃，针对中东非油气、电信、航空、ISP机构，TTP与APT33/OilRig相似但为不同实体",
+    "zh_variants": [
+      "己烷组织"
+    ],
+    "en_variants": [
+      "HEXANE",
+      "Lyceum",
+      "Siamesekitten",
+      "Spirlin",
+      "G1001"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Higaisa组织",
+    "en_core": "Higaisa",
+    "description": "疑似韩国背景威胁组织，2009年起运营，2019年初披露，主要针对朝鲜政府/公共/贸易组织，也攻击中、日、俄、波等国",
+    "zh_variants": [],
+    "en_variants": [
+      "Higaisa",
+      "G0126"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "INC Ransom组织",
+    "en_core": "INC Ransom",
+    "description": "2023年7月起活跃的勒索软件和数据勒索威胁组织，部署INC Ransomware，主要针对美欧工业、医疗、教育行业",
+    "zh_variants": [],
+    "en_variants": [
+      "INC Ransom",
+      "GOLD IONIC",
+      "G1032"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Inception组织",
+    "en_core": "Inception",
+    "description": "网络间谍组织，2014年起活跃，主要针对俄罗斯多行业政府机构，也波及美、欧、亚、非、中东",
+    "zh_variants": [
+      "盗梦空间组织"
+    ],
+    "en_variants": [
+      "Inception",
+      "Inception Framework",
+      "Cloud Atlas",
+      "G0100"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "IndigoZebra组织",
+    "en_core": "IndigoZebra",
+    "description": "疑似中国网络间谍组织，2014年起针对中亚政府发起攻击",
+    "zh_variants": [
+      "靛蓝斑马组织"
+    ],
+    "en_variants": [
+      "IndigoZebra",
+      "G0136"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Indrik Spider组织",
+    "en_core": "Indrik Spider",
+    "description": "俄罗斯网络犯罪组织，2014年起活跃，初期使用Dridex银行木马，2017年起运营BitPaymer等勒索软件，2019年受美制裁起诉后调整战术工具",
+    "zh_variants": [
+      "印德里克蜘蛛组织"
+    ],
+    "en_variants": [
+      "Indrik Spider",
+      "Evil Corp",
+      "Manatee Tempest",
+      "DEV-0243",
+      "UNC2165",
+      "G0119"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Ke3chang组织",
+    "en_core": "Ke3chang",
+    "description": "中国背景威胁组织，2010年起针对中美欧及中南美/加勒比地区石油、政府、外交、军事、NGO机构",
+    "zh_variants": [],
+    "en_variants": [
+      "Ke3chang",
+      "APT15",
+      "Mirage",
+      "Vixen Panda",
+      "GREF",
+      "Playful Dragon",
+      "RoyalAPT",
+      "NICKEL",
+      "Nylon Typhoon",
+      "G0004"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Kimsuky组织",
+    "en_core": "Kimsuky",
+    "description": "朝鲜网络间谍组织，2012年起活跃，初期针对韩国，后扩展至美、日、俄、欧多国多机构，聚焦朝鲜半岛外交/安全政策，2023年使用大模型辅助攻击，部分研究者将其归入Lazarus Group umbrella",
+    "zh_variants": [],
+    "en_variants": [
+      "Kimsuky",
+      "Black Banshee",
+      "Velvet Chollima",
+      "Emerald Sleet",
+      "THALLIUM",
+      "APT43",
+      "TA427",
+      "Springtail",
+      "G0094"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "LAPSUS$组织",
+    "en_core": "LAPSUS$",
+    "description": "网络犯罪组织，2021年中起活跃，擅长大规模社会工程和勒索（无勒索软件的破坏性攻击），针对全球多行业机构",
+    "zh_variants": [],
+    "en_variants": [
+      "LAPSUS$",
+      "DEV-0537",
+      "Strawberry Tempest",
+      "G1004"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Lazarus Group组织",
+    "en_core": "Lazarus Group",
+    "description": "朝鲜国家支持的网络威胁组织，隶属侦察总局，2009年起活跃，主导2014年索尼影业擦除器攻击，为朝鲜各类网络活动的伞形统称，旗下单位共享资源，归因难度高",
+    "zh_variants": [
+      "拉撒路组织"
+    ],
+    "en_variants": [
+      "Lazarus Group",
+      "Labyrinth Chollima",
+      "HIDDEN COBRA",
+      "Guardians of Peace",
+      "ZINC",
+      "NICKEL ACADEMY",
+      "Diamond Sleet",
+      "G0032"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "LazyScripter组织",
+    "en_core": "LazyScripter",
+    "description": "2018年起活跃的威胁组织，主要针对航空业，大量使用开源工具集",
+    "zh_variants": [
+      "懒惰脚本师组织"
+    ],
+    "en_variants": [
+      "LazyScripter",
+      "G0140"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Leafminer组织",
+    "en_core": "Leafminer",
+    "description": "伊朗威胁组织，2017年初起活跃，针对中东政府和商业实体",
+    "zh_variants": [
+      "潜叶虫组织"
+    ],
+    "en_variants": [
+      "Leafminer",
+      "Raspite",
+      "G0077"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Leviathan组织",
+    "en_core": "Leviathan",
+    "description": "中国国家支持的网络间谍组织，归属国安部海南国安厅及关联前台公司，2009年起活跃，针对全球多地区多行业机构",
+    "zh_variants": [
+      "利维坦组织"
+    ],
+    "en_variants": [
+      "Leviathan",
+      "MUDCARP",
+      "Kryptonite Panda",
+      "Gadolinium",
+      "BRONZE MOHAWK",
+      "TEMP.Jumper",
+      "APT40",
+      "TEMP.Periscope",
+      "Gingham Typhoon",
+      "G0065"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Lotus Blossom组织",
+    "en_core": "Lotus Blossom",
+    "description": "2009年起活跃的长期威胁组织，主要针对亚洲多实体，包括数字证书颁发机构",
+    "zh_variants": [
+      "莲花绽放组织"
+    ],
+    "en_variants": [
+      "Lotus Blossom",
+      "DRAGONFISH",
+      "Spring Dragon",
+      "RADIUM",
+      "Raspberry Typhoon",
+      "Bilbug",
+      "Thrip",
+      "G0030"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "LuminousMoth组织",
+    "en_core": "LuminousMoth",
+    "description": "华语网络间谍组织，2020年10月起活跃，针对东南亚多国政府等高端机构，与Mustang Panda存在潜在关联",
+    "zh_variants": [
+      "发光飞蛾组织"
+    ],
+    "en_variants": [
+      "LuminousMoth",
+      "G1014"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Machete组织",
+    "en_core": "Machete",
+    "description": "疑似西班牙语网络间谍组织，2010年起活跃，主要针对拉美（重点委内瑞拉），也攻击美、欧、俄、亚多国高端机构",
+    "zh_variants": [
+      "砍刀组织"
+    ],
+    "en_variants": [
+      "Machete",
+      "APT-C-43",
+      "El Machete",
+      "G0095"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Magic Hound组织",
+    "en_core": "Magic Hound",
+    "description": "伊朗支持的威胁组织，隶属伊斯兰革命卫队，2014年起活跃，通过复杂社会工程针对欧美中东多类人员和机构",
+    "zh_variants": [
+      "魔法猎犬组织"
+    ],
+    "en_variants": [
+      "Magic Hound",
+      "TA453",
+      "COBALT ILLUSION",
+      "Charming Kitten",
+      "ITG18",
+      "Phosphorus",
+      "Newscaster",
+      "APT35",
+      "Mint Sandstorm",
+      "G0059"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Malteiro组织",
+    "en_core": "Malteiro",
+    "description": "疑似巴西背景经济犯罪组织，2019年11月起活跃，以MaaS模式运营分发Mispadu银行木马，主要针对拉美（墨）和欧洲（西、葡）",
+    "zh_variants": [],
+    "en_variants": [
+      "Malteiro",
+      "G1026"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Medusa Group组织",
+    "en_core": "Medusa Group",
+    "description": "2021年起活跃的勒索组织，初期为封闭组织后转为RaaS，采用就地取材战术和双重勒索，利用漏洞/钓鱼/初始访问代理获取访问权，全球多行业泛化攻击",
+    "zh_variants": [
+      "美杜莎组织"
+    ],
+    "en_variants": [
+      "Medusa Group",
+      "G1051"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "menuPass组织",
+    "en_core": "menuPass",
+    "description": "2006年起活跃的威胁组织，成员关联中国国安部天津国安厅及华盈海泰科技，针对全球多行业机构，重点攻击日本组织",
+    "zh_variants": [],
+    "en_variants": [
+      "menuPass",
+      "Cicada",
+      "POTASSIUM",
+      "Stone Panda",
+      "APT10",
+      "Red Apollo",
+      "CVNX",
+      "HOGFISH",
+      "BRONZE RIVERSIDE",
+      "G0045"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Metador组织",
+    "en_core": "Metador",
+    "description": "疑似网络间谍组织，2022年9月首次披露，针对中东少量电信、ISP、大学，名称源于恶意软件中的'I am meta'字符串，C2服务器预期西班牙语响应",
+    "zh_variants": [
+      "斗牛士组织"
+    ],
+    "en_variants": [
+      "Metador",
+      "G1013"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Mofang组织",
+    "en_core": "Mofang",
+    "description": "疑似中国网络间谍组织，名称源于模仿受害者基础设施的惯用手法，2012年5月起活跃，针对缅甸政府/关键基础设施及多国多行业",
+    "zh_variants": [
+      "模仿方组织"
+    ],
+    "en_variants": [
+      "Mofang",
+      "G0103"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Moaiee组织",
+    "en_core": "Moaiee",
+    "description": "疑似中国广东背景威胁组织，与DragonOK的TTP（含自定义工具）重叠，存在直接/间接关联",
+    "zh_variants": [],
+    "en_variants": [
+      "Moaiee",
+      "G0002"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Molerats组织",
+    "en_core": "Molerats",
+    "description": "阿拉伯语背景政治动机威胁组织，2012年起运营，主要针对中东、欧、美受害者",
+    "zh_variants": [
+      "鼹鼠组织"
+    ],
+    "en_variants": [
+      "Molerats",
+      "Operation Molerats",
+      "Gaza Cybergang",
+      "G0021"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Moonstone Sleet组织",
+    "en_core": "Moonstone Sleet",
+    "description": "朝鲜关联威胁行动者，开展金融和间谍攻击，2023年前与Lazarus Group高度重叠后战术分化，创建虚假公司/人物，开发游戏投递恶意软件",
+    "zh_variants": [
+      "月石雨夹雪组织"
+    ],
+    "en_variants": [
+      "Moonstone Sleet",
+      "Storm-1789",
+      "G1036"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Moses Staff组织",
+    "en_core": "Moses Staff",
+    "description": "疑似伊朗威胁组织，2021年9月起主要针对以色列公司，无赎金要求，通过数据泄露和加密破坏目标，政治动机，也攻击意、印等多国多行业",
+    "zh_variants": [
+      "摩西之杖组织"
+    ],
+    "en_variants": [
+      "Moses Staff",
+      "DEV-0500",
+      "Marigold Sandstorm",
+      "G1009"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "MoustachedBouncer组织",
+    "en_core": "MoustachedBouncer",
+    "description": "2014年起活跃的网络间谍组织，针对白俄罗斯的外国大使馆",
+    "zh_variants": [
+      "大胡子保镖组织"
+    ],
+    "en_variants": [
+      "MoustachedBouncer",
+      "G1019"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "MuddyWater组织",
+    "en_core": "MuddyWater",
+    "description": "伊朗情报和安全部（MOIS）下属网络间谍组织，2017年起活跃，针对全球多地区多行业机构",
+    "zh_variants": [
+      "浑水组织"
+    ],
+    "en_variants": [
+      "MuddyWater",
+      "Earth Vetala",
+      "MERCURY",
+      "Static Kitten",
+      "Seedworm",
+      "TEMP.Zagros",
+      "Mango Sandstorm",
+      "TA450",
+      "G0069"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Mustang Panda组织",
+    "en_core": "Mustang Panda",
+    "description": "中国背景网络间谍威胁行动者，2012年起活跃，使用定制钓鱼诱饵投递恶意软件，针对美欧亚多国多机构",
+    "zh_variants": [
+      "野马熊猫组织"
+    ],
+    "en_variants": [
+      "Mustang Panda",
+      "TA416",
+      "RedDelta",
+      "BRONZE PRESIDENT",
+      "STATELY TAURUS",
+      "FIREANT",
+      "CAMARO DRAGON",
+      "EARTH PRETA",
+      "HIVE0154",
+      "TWILL TYPHOON",
+      "TANTALUM",
+      "LUMINOUS MOTH",
+      "UNC6384",
+      "TEMP.Hex",
+      "Red Lich",
+      "G0129"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Mustard Tempest组织",
+    "en_core": "Mustard Tempest",
+    "description": "初始访问代理，2017年起运营SocGholish分发网络，与Indrik Spider合作投放勒索软件和远控工具",
+    "zh_variants": [
+      "芥末风暴组织"
+    ],
+    "en_variants": [
+      "Mustard Tempest",
+      "DEV-0206",
+      "TA569",
+      "GOLD PRELUDE",
+      "UNC1543",
+      "G1020"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Naikon组织",
+    "en_core": "Naikon",
+    "description": "中国人民解放军成都军区第二技术侦察局（78020部队）所属国家支持网络间谍组织，2010年起活跃，主要针对东南亚及联合国/东盟等国际机构，与APT30特征部分重合但非同一组织",
+    "zh_variants": [],
+    "en_variants": [
+      "Naikon",
+      "G0019"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "NEODYMIUM组织",
+    "en_core": "NEODYMIUM",
+    "description": "2016年5月开展活动的组织，主要针对土耳其受害者，与PROMETHIUM特征重叠，与BlackOasis关联密切但非别名",
+    "zh_variants": [
+      "钕组织"
+    ],
+    "en_variants": [
+      "NEODYMIUM",
+      "G0055"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Nomadic Octopus组织",
+    "en_core": "Nomadic Octopus",
+    "description": "俄语网络间谍威胁组织，2014年起活跃，主要针对中亚政府、外交使团、个人，使用Delphi开发安卓/Windows自定义恶意软件",
+    "zh_variants": [
+      "游牧章鱼组织"
+    ],
+    "en_variants": [
+      "Nomadic Octopus",
+      "DustSquad",
+      "G0133"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "OilRig组织",
+    "en_core": "OilRig",
+    "description": "疑似伊朗威胁组织，2014年起活跃，针对中东及全球多行业机构，开展供应链攻击，基于基础设施/目标判定为伊朗政府服务",
+    "zh_variants": [
+      "石油钻塔组织"
+    ],
+    "en_variants": [
+      "OilRig",
+      "COBALT GYPSY",
+      "IRN2",
+      "APT34",
+      "Helix Kitten",
+      "Evasive Serpens",
+      "Hazel Sandstorm",
+      "EUROPIUM",
+      "ITG13",
+      "Earth Simnavaz",
+      "Crambus",
+      "TA452",
+      "G0049"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Orangeworm组织",
+    "en_core": "Orangeworm",
+    "description": "2015年起活跃的组织，针对美欧亚医疗行业，疑似企业间谍动机，其Kwampirs恶意软件与Shamoon高度重叠",
+    "zh_variants": [
+      "橙虫组织"
+    ],
+    "en_variants": [
+      "Orangeworm",
+      "G0071"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Patchwork组织",
+    "en_core": "Patchwork",
+    "description": "2015年12月首次发现的网络间谍组织，疑似亲印度/印度实体，针对外交/政府相关行业，代码多复制自论坛，2018年钓鱼攻击美国智库",
+    "zh_variants": [
+      "拼布组织"
+    ],
+    "en_variants": [
+      "Patchwork",
+      "Hangover Group",
+      "Dropping Elephant",
+      "Chinastrats",
+      "MONSOON",
+      "Operation Hangover",
+      "G0040"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "PittyTiger组织",
+    "en_core": "PittyTiger",
+    "description": "疑似中国背景威胁组织，使用多款恶意软件维持命令与控制",
+    "zh_variants": [
+      "可怜虎组织"
+    ],
+    "en_variants": [
+      "PittyTiger",
+      "G0011"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "PLATINUM组织",
+    "en_core": "PLATINUM",
+    "description": "2009年起活跃的活动组织，主要针对南亚和东南亚政府及关联机构",
+    "zh_variants": [
+      "铂组织"
+    ],
+    "en_variants": [
+      "PLATINUM",
+      "G0068"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Play组织",
+    "en_core": "Play",
+    "description": "2022年起活跃的勒索组织，部署Playcrypt勒索软件，针对全球多地区多行业，采用双重勒索，疑似封闭组织运作",
+    "zh_variants": [],
+    "en_variants": [
+      "Play",
+      "G1040"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "POLONIUM组织",
+    "en_core": "POLONIUM",
+    "description": "黎巴嫩背景组织，2022年2月起主要针对以色列多行业机构，与伊朗MOIS关联行动者协同作案",
+    "zh_variants": [
+      "钋组织"
+    ],
+    "en_variants": [
+      "POLONIUM",
+      "Plaid Rain",
+      "G1005"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Poseidon Group组织",
+    "en_core": "Poseidon Group",
+    "description": "葡萄牙语背景威胁组织，2005年起活跃，利用窃取数据勒索受害者雇佣其作为安全公司",
+    "zh_variants": [
+      "波塞冬组织"
+    ],
+    "en_variants": [
+      "Poseidon Group",
+      "G0033"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "PROMETHIUM组织",
+    "en_core": "PROMETHIUM",
+    "description": "活动组织，2012年起活跃，主要针对土耳其，也开展全球活动，与NEODYMIUM特征重叠",
+    "zh_variants": [
+      "镤组织"
+    ],
+    "en_variants": [
+      "PROMETHIUM",
+      "StrongPity",
+      "G0056"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Putter Panda组织",
+    "en_core": "Putter Panda",
+    "description": "中国威胁组织，归属中国人民解放军总参谋部二部（61398部队）",
+    "zh_variants": [],
+    "en_variants": [
+      "Putter Panda",
+      "APT2",
+      "MSUpdater",
+      "G0024"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Rancor组织",
+    "en_core": "Rancor",
+    "description": "威胁组织，针对东南亚地区开展定向攻击，使用政治动机诱饵诱骗受害者打开恶意文档",
+    "zh_variants": [
+      "怨恨组织"
+    ],
+    "en_variants": [
+      "Rancor",
+      "G0075"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "RedCurl组织",
+    "en_core": "RedCurl",
+    "description": "2018年起活跃的威胁行动者，开展企业间谍活动，针对乌克兰、加拿大、英国等多国多行业，通过钓鱼邮件获取初始访问",
+    "zh_variants": [
+      "红卷发组织"
+    ],
+    "en_variants": [
+      "RedCurl",
+      "G1039"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "RedEcho组织",
+    "en_core": "RedEcho",
+    "description": "中国关联威胁行动者，与长期入侵印度关键基础设施相关，与APT41等其他PRC-linked威胁组存在重叠",
+    "zh_variants": [
+      "红回音组织"
+    ],
+    "en_variants": [
+      "RedEcho",
+      "G1042"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Rocke组织",
+    "en_core": "Rocke",
+    "description": "疑似中国华语威胁行动者，主要动机为加密货币挖矿，通过'rocke@live.cn'钱包地址收集加密货币",
+    "zh_variants": [
+      "罗克组织"
+    ],
+    "en_variants": [
+      "Rocke",
+      "G0106"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "RTM组织",
+    "en_core": "RTM",
+    "description": "网络犯罪组织，2015年起活跃，主要针对俄罗斯及邻国远程银行系统用户，使用同名木马",
+    "zh_variants": [],
+    "en_variants": [
+      "RTM",
+      "G0048"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Saint Bear组织",
+    "en_core": "Saint Bear",
+    "description": "俄罗斯关联威胁行动者，2021年初起活跃，主要针对乌克兰和格鲁吉亚，擅长钓鱼/网页恶意文档分发，使用Saint Bot和OutSteel工具",
+    "zh_variants": [
+      "圣熊组织"
+    ],
+    "en_variants": [
+      "Saint Bear",
+      "Storm-0587",
+      "TA471",
+      "UAC-0056",
+      "G1031"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Salt Typhoon组织",
+    "en_core": "Salt Typhoon",
+    "description": "中国国家支持行动者，2019年起活跃，针对美国及领土关键电信基础设施开展攻击",
+    "zh_variants": [
+      "盐风暴组织"
+    ],
+    "en_variants": [
+      "Salt Typhoon",
+      "G1045"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Sandworm Team组织",
+    "en_core": "Sandworm Team",
+    "description": "俄罗斯联邦武装力量总参谋部情报总局（GRU）GTsST军事单位74455所属破坏性威胁组织，2009年起活跃，主导NotPetya、Olympic Destroyer等多起攻击",
+    "zh_variants": [
+      "沙虫团队组织"
+    ],
+    "en_variants": [
+      "Sandworm Team",
+      "ELECTRUM",
+      "Telebots",
+      "IRON VIKING",
+      "BlackEnergy (Group)",
+      "Quedagh",
+      "Voodoo Bear",
+      "IRIDIUM",
+      "Seashell Blizzard",
+      "FROZENBARENTS",
+      "G0034"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Scarlet Mimic组织",
+    "en_core": "Scarlet Mimic",
+    "description": "威胁组织，针对少数民族权利活动家，与Putter Panda存在IP地址重叠但未确认关联，动机与中政府重叠",
+    "zh_variants": [
+      "猩红模仿组织"
+    ],
+    "en_variants": [
+      "Scarlet Mimic",
+      "G0029"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Scattered Spider组织",
+    "en_core": "Scattered Spider",
+    "description": "英语母语网络犯罪组织，2022年起活跃，擅长社会工程，针对CRM、BPO、电信、科技公司，2023年扩展至游戏、酒店、零售、MSP、制造、金融领域",
+    "zh_variants": [
+      "散布蜘蛛组织"
+    ],
+    "en_variants": [
+      "Scattered Spider",
+      "Roasted 0ktapus",
+      "Octo Tempest",
+      "Storm-0875",
+      "UNC3944",
+      "G1015"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Sea Turtle组织",
+    "en_core": "Sea Turtle",
+    "description": "土耳其关联威胁行动者，2017年起活跃，进行间谍和服务器入侵，针对亚洲、欧洲、北美，擅长DNS劫持用于凭证收集",
+    "zh_variants": [
+      "海龟组织"
+    ],
+    "en_variants": [
+      "Sea Turtle",
+      "Teal Kurma",
+      "Marbled Dust",
+      "Cosmic Wolf",
+      "SILICON",
+      "G1041"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "SideCopy组织",
+    "en_core": "SideCopy",
+    "description": "巴基斯坦威胁组织，2019年起活跃，主要针对南亚（印、阿富汗）政府人员，感染链模仿Sidewinder",
+    "zh_variants": [
+      "侧边复制组织"
+    ],
+    "en_variants": [
+      "SideCopy",
+      "G1008"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Sidewinder组织",
+    "en_core": "Sidewinder",
+    "description": "疑似印度威胁组织，2012年起活跃，针对政府、军方、商业实体，主要在巴基斯坦、中国、尼泊尔和阿富汗",
+    "zh_variants": [
+      "响尾蛇组织"
+    ],
+    "en_variants": [
+      "Sidewinder",
+      "T-APT-04",
+      "Rattlesnake",
+      "G0121"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Silence组织",
+    "en_core": "Silence",
+    "description": "经济动机威胁行动者，2016年6月起活跃，针对金融机构，主要在俄、乌、白、阿、波、哈",
+    "zh_variants": [
+      "沉默组织"
+    ],
+    "en_variants": [
+      "Silence",
+      "Whisper Spider",
+      "G0091"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Silent Librarian组织",
+    "en_core": "Silent Librarian",
+    "description": "2013年起活跃的组织，针对全球大学、政府机构、私营企业窃取研究和专有数据，成员与伊朗Mabna Institute关联，为伊朗政府服务",
+    "zh_variants": [
+      "沉默图书管理员组织"
+    ],
+    "en_variants": [
+      "Silent Librarian",
+      "TA407",
+      "COBALT DICKENS",
+      "G0122"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "SilverTerrier组织",
+    "en_core": "SilverTerrier",
+    "description": "尼日利亚威胁组织，2014年起活跃，主要针对高科技、高等教育、制造行业",
+    "zh_variants": [
+      "银梗组织"
+    ],
+    "en_variants": [
+      "SilverTerrier",
+      "G0083"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Sowbug组织",
+    "en_core": "Sowbug",
+    "description": "威胁组织，2015年起活跃，针对南美和东南亚政府实体",
+    "zh_variants": [
+      "地虱组织"
+    ],
+    "en_variants": [
+      "Sowbug",
+      "G0054"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Star Blizzard组织",
+    "en_core": "Star Blizzard",
+    "description": "俄罗斯情报和影响行动组织，2019年起活跃，与俄罗斯国家利益紧密相关，针对北约国家（美、英）学术、防御、政府、NGO、智库",
+    "zh_variants": [
+      "星际暴风雪组织"
+    ],
+    "en_variants": [
+      "Star Blizzard",
+      "SEABORGIUM",
+      "Callisto Group",
+      "TA446",
+      "G1033"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Stealth Falcon组织",
+    "en_core": "Stealth Falcon",
+    "description": "威胁组织，2012年起活跃，针对阿联酋记者、活动家和异见人士，推测与阿联酋政府有关",
+    "zh_variants": [
+      "隐形猎鹰组织"
+    ],
+    "en_variants": [
+      "Stealth Falcon",
+      "G0038"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Storm-0501组织",
+    "en_core": "Storm-0501",
+    "description": "经济动机网络犯罪组织，2021年起活跃，使用商品和开源工具开展勒索软件操作，曾与Sabbath Ransomware及其他RaaS变体关联",
+    "zh_variants": [
+      "风暴-0501组织"
+    ],
+    "en_variants": [
+      "Storm-0501",
+      "G1053"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Storm-1811组织",
+    "en_core": "Storm-1811",
+    "description": "经济动机实体，2023年起关联Black Basta勒索软件部署，擅长独特钓鱼和社会工程用于初始访问",
+    "zh_variants": [
+      "风暴-1811组织"
+    ],
+    "en_variants": [
+      "Storm-1811",
+      "G1046"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Strider组织",
+    "en_core": "Strider",
+    "description": "威胁组织，2011年起活跃，针对俄、中、瑞典、比利时、伊朗、卢旺达",
+    "zh_variants": [
+      "大步组织"
+    ],
+    "en_variants": [
+      "Strider",
+      "ProjectSauron",
+      "G0041"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Suckfly组织",
+    "en_core": "Suckfly",
+    "description": "中国背景威胁组织，2014年起活跃",
+    "zh_variants": [
+      "吸蝇组织"
+    ],
+    "en_variants": [
+      "Suckfly",
+      "G0039"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "TA2541组织",
+    "en_core": "TA2541",
+    "description": "网络犯罪组织，2017年起活跃，针对航空、航天、运输、制造、国防行业，使用高容量邮件恶意软件分发",
+    "zh_variants": [],
+    "en_variants": [
+      "TA2541",
+      "G1018"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "TA459组织",
+    "en_core": "TA459",
+    "description": "疑似中国背景威胁组织，2010年起活跃，针对俄、白、蒙古等国",
+    "zh_variants": [],
+    "en_variants": [
+      "TA459",
+      "G0062"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "TA505组织",
+    "en_core": "TA505",
+    "description": "网络犯罪组织，2014年起活跃，推动全球刑事恶意软件趋势，开展Clop勒索软件活动",
+    "zh_variants": [],
+    "en_variants": [
+      "TA505",
+      "Hive0065",
+      "Spandex Tempest",
+      "CHIMBORAZO",
+      "G0092"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "TA551组织",
+    "en_core": "TA551",
+    "description": "经济动机威胁组织，2018年起活跃，主要通过邮件分发恶意软件针对英、德、意、日语使用者",
+    "zh_variants": [],
+    "en_variants": [
+      "TA551",
+      "GOLD CABIN",
+      "Shathak",
+      "G0127"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "TA577组织",
+    "en_core": "TA577",
+    "description": "初始访问代理，2023年起率先分发Latrodectus，与QakBot和Pikabot关联",
+    "zh_variants": [],
+    "en_variants": [
+      "TA577",
+      "G1037"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "TA578组织",
+    "en_core": "TA578",
+    "description": "威胁行动者，2023年起使用联系表单和邮件与受害者沟通并分发Latrodectus、IcedID、和Bumblebee",
+    "zh_variants": [],
+    "en_variants": [
+      "TA578",
+      "G1038"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "TeamTNT组织",
+    "en_core": "TeamTNT",
+    "description": "威胁组织，2019年10月起活跃，主要针对云和容器化环境，部署加密货币矿工",
+    "zh_variants": [
+      "TNT团队组织"
+    ],
+    "en_variants": [
+      "TeamTNT",
+      "G0139"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "TEMP.Veles组织",
+    "en_core": "TEMP.Veles",
+    "description": "俄罗斯背景威胁组织，针对关键基础设施，使用TRITON恶意软件框架操纵工业安全系统",
+    "zh_variants": [
+      "临时.Veles组织"
+    ],
+    "en_variants": [
+      "TEMP.Veles",
+      "XENOTIME",
+      "G0088"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "The White Company组织",
+    "en_core": "The White Company",
+    "description": "疑似国家支持威胁行动者，2017-2018年开展Operation Shaheen间谍活动，针对巴基斯坦政府和军事组织",
+    "zh_variants": [
+      "白公司组织"
+    ],
+    "en_variants": [
+      "The White Company",
+      "G0089"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Threat Group-1314组织",
+    "en_core": "Threat Group-1314",
+    "description": "未归因威胁组织，使用泄露凭证登录受害者远程访问基础设施",
+    "zh_variants": [],
+    "en_variants": [
+      "Threat Group-1314",
+      "TG-1314",
+      "G0028"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Threat Group-3390组织",
+    "en_core": "Threat Group-3390",
+    "description": "中国威胁组织，2010年起活跃，广泛利用战略网页篡改攻击受害者，针对航空航天、国防、政府、科技、能源、制造、赌博行业",
+    "zh_variants": [],
+    "en_variants": [
+      "Threat Group-3390",
+      "Earth Smilodon",
+      "TG-3390",
+      "Emissary Panda",
+      "BRONZE UNION",
+      "APT27",
+      "Iron Tiger",
+      "LuckyMouse",
+      "Linen Typhoon",
+      "G0027"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Thrip组织",
+    "en_core": "Thrip",
+    "description": "间谍组织，针对美国卫星通信、电信、国防承包商，使用自定义恶意软件和'就地取材'技术",
+    "zh_variants": [
+      "蓟马组织"
+    ],
+    "en_variants": [
+      "Thrip",
+      "G0076"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "ToddyCat组织",
+    "en_core": "ToddyCat",
+    "description": "精密威胁组织，2020年起活跃，使用自定义加载器和恶意软件针对欧洲和亚洲政府和军事目标",
+    "zh_variants": [
+      "托迪猫组织"
+    ],
+    "en_variants": [
+      "ToddyCat",
+      "G1022"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Tonto Team组织",
+    "en_core": "Tonto Team",
+    "description": "疑似中国国家支持网络间谍威胁组织，2009年起活跃，针对韩国、日本、台湾，2020年起扩展亚洲东部和欧洲，主导Heartbeat Campaign和Operation Bitter Biscuit",
+    "zh_variants": [
+      "顿托团队组织"
+    ],
+    "en_variants": [
+      "Tonto Team",
+      "Earth Akhlut",
+      "BRONZE HUNTLEY",
+      "CactusPete",
+      "Karma Panda",
+      "G0131"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Transparent Tribe组织",
+    "en_core": "Transparent Tribe",
+    "description": "疑似巴基斯坦背景威胁组织，2013年起活跃，主要针对印度和阿富汗外交、防务和研究组织",
+    "zh_variants": [
+      "透明部落组织"
+    ],
+    "en_variants": [
+      "Transparent Tribe",
+      "COPPER FIELDSTONE",
+      "APT36",
+      "Mythic Leopard",
+      "ProjectM",
+      "G0134"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Tropic Trooper组织",
+    "en_core": "Tropic Trooper",
+    "description": "非联盟威胁组织，2011年起活跃，针对台湾、菲律宾、香港政府、医疗、交通、高科技行业",
+    "zh_variants": [
+      "热带士兵组织"
+    ],
+    "en_variants": [
+      "Tropic Trooper",
+      "Pirate Panda",
+      "KeyBoy",
+      "G0081"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Turla组织",
+    "en_core": "Turla",
+    "description": "俄罗斯联邦安全局（FSB）所属网络间谍组织，2004年起活跃，针对50国政府、研究机构、智库，主导水坑和鱼叉钓鱼攻击，使用Uroburos等工具",
+    "zh_variants": [],
+    "en_variants": [
+      "Turla",
+      "IRON HUNTER",
+      "Group 88",
+      "Waterbug",
+      "WhiteBear",
+      "Snake",
+      "Krypton",
+      "Venomous Bear",
+      "Secret Blizzard",
+      "G0010"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "UNC3886组织",
+    "en_core": "UNC3886",
+    "description": "中国关联网络间谍组织，2022年起活跃，针对美国和亚太-日本地区防御、科技、电信组织，擅长利用边缘设备零日漏洞",
+    "zh_variants": [],
+    "en_variants": [
+      "UNC3886",
+      "G1048"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "UNC788组织",
+    "en_core": "UNC788",
+    "description": "伊朗背景黑客组织，针对中东人员",
+    "zh_variants": [],
+    "en_variants": [
+      "UNC788",
+      "G1029"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Velvet Ant组织",
+    "en_core": "Velvet Ant",
+    "description": "2021年起活跃的威胁行动者，擅长复杂持久机制和网络设备/设备部署攻击，使用零日漏洞",
+    "zh_variants": [
+      "天鹅绒蚂蚁组织"
+    ],
+    "en_variants": [
+      "Velvet Ant",
+      "G1047"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Volatile Cedar组织",
+    "en_core": "Volatile Cedar",
+    "description": "黎巴嫩威胁组织，2012年起活跃，针对全球公司和机构，动机为政治和意识形态",
+    "zh_variants": [
+      "挥发雪松组织"
+    ],
+    "en_variants": [
+      "Volatile Cedar",
+      "Lebanese Cedar",
+      "G0123"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Volt Typhoon组织",
+    "en_core": "Volt Typhoon",
+    "description": "中国国家支持行动者，2021年起活跃，针对美国及领土关键基础设施，强调隐蔽性，使用Web Shell、就地取材、键盘操作，用于潜在破坏/中断攻击",
+    "zh_variants": [
+      "伏特台风组织"
+    ],
+    "en_variants": [
+      "Volt Typhoon",
+      "BRONZE SILHOUETTE",
+      "Vanguard Panda",
+      "DEV-0391",
+      "UNC3236",
+      "Voltzite",
+      "Insidious Taurus",
+      "G1017"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Water Galura组织",
+    "en_core": "Water Galura",
+    "description": "Qilin勒索软件即服务运营商，2022年起活跃，处理有效载荷生成、赎金谈判和泄露数据，为Qilin附属机构提供支持",
+    "zh_variants": [
+      "水加卢拉组织"
+    ],
+    "en_variants": [
+      "Water Galura",
+      "GOLD FEATHER",
+      "G1050"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Whitefly组织",
+    "en_core": "Whitefly",
+    "description": "网络间谍组织，2017年起活跃，针对新加坡多行业机构，旨在窃取大量敏感信息，与SingHealth攻击相关",
+    "zh_variants": [
+      "白蝇组织"
+    ],
+    "en_variants": [
+      "Whitefly",
+      "G0107"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Windigo组织",
+    "en_core": "Windigo",
+    "description": "2011年起活跃的组织，通过Ebury SSH后门感染数千Linux/Unix服务器构建垃圾邮件僵尸网络，执法干预后仍持续更新Ebury至2019年",
+    "zh_variants": [
+      "温迪戈组织"
+    ],
+    "en_variants": [
+      "Windigo",
+      "G0124"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Windshift组织",
+    "en_core": "Windshift",
+    "description": "威胁组织，2017年起活跃，针对中东特定个人进行监视，涉及政府部门和关键基础设施",
+    "zh_variants": [
+      "风移组织"
+    ],
+    "en_variants": [
+      "Windshift",
+      "Bahamut",
+      "G0112"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Winnti Group组织",
+    "en_core": "Winnti Group",
+    "description": "中国背景威胁组织，2010年起活跃，最初针对游戏行业，后扩展范围，部分报告将其与Axiom、APT17、Ke3chang密切关联",
+    "zh_variants": [
+      "温蒂集团组织"
+    ],
+    "en_variants": [
+      "Winnti Group",
+      "Blackfly",
+      "G0044"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Winter Vivern组织",
+    "en_core": "Winter Vivern",
+    "description": "俄罗斯和白俄罗斯利益关联威胁组织，2020年起活跃，针对欧洲政府和NGO，也针对印度和美国受害者，使用文档钓鱼和服务器端漏洞利用",
+    "zh_variants": [
+      "冬蛇怪组织"
+    ],
+    "en_variants": [
+      "Winter Vivern",
+      "TA473",
+      "UAC-0114",
+      "G1035"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "WIRTE组织",
+    "en_core": "WIRTE",
+    "description": "威胁组织，2018年8月起活跃，针对中东、欧洲政府、外交、金融、军事、科技组织",
+    "zh_variants": [
+      "WIRTE组织"
+    ],
+    "en_variants": [
+      "WIRTE",
+      "G0090"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Wizard Spider组织",
+    "en_core": "Wizard Spider",
+    "description": "俄罗斯背景经济动机威胁组织，2016年起运营TrickBot，擅长多样化工具，针对各大公司至医院的勒索软件活动",
+    "zh_variants": [
+      "巫师蜘蛛组织"
+    ],
+    "en_variants": [
+      "Wizard Spider",
+      "UNC1878",
+      "TEMP.MixMaster",
+      "Grim Spider",
+      "GOLD BLACKBURN",
+      "ITG23",
+      "Periwinkle Tempest",
+      "DEV-0193",
+      "G0102"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "ZIRCONIUM组织",
+    "en_core": "ZIRCONIUM",
+    "description": "中国背景威胁组织，2017年起活跃，针对2020年美国大选相关个人和国际事务知名人士，使用钓鱼获取初始访问",
+    "zh_variants": [
+      "锆石组织"
+    ],
+    "en_variants": [
+      "ZIRCONIUM",
+      "APT31",
+      "Violet Typhoon",
+      "G0128"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Deep Panda组织",
+    "en_core": "Deep Panda",
+    "description": "疑似中国威胁组织，针对政府、国防、金融、电信等多行业，主导Anthem医疗公司入侵事件，与APT19存在相似性",
+    "zh_variants": [
+      "深熊猫组织"
+    ],
+    "en_variants": [
+      "Deep Panda",
+      "Shell Crew",
+      "WebMasters",
+      "KungFu Kittens",
+      "PinkPanther",
+      "Black Vine",
+      "G0009"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Darkhotel组织",
+    "en_core": "Darkhotel",
+    "description": "疑似韩国威胁组织，2004年起活跃，主要针对东亚出差高管，通过酒店网络/钓鱼/点对点网络发起间谍攻击",
+    "zh_variants": [
+      "黑暗酒店组织"
+    ],
+    "en_variants": [
+      "Darkhotel",
+      "DUBNIUM",
+      "Zigzag Hail",
+      "G0012"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "DragonOK组织",
+    "en_core": "DragonOK",
+    "description": "针对日本组织发起钓鱼攻击的威胁组织，与Moafee的TTP重叠，使用多种恶意软件",
+    "zh_variants": [
+      "龙OK组织"
+    ],
+    "en_variants": [
+      "DragonOK",
+      "G0017"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Dragonfly组织",
+    "en_core": "Dragonfly",
+    "description": "俄罗斯联邦安全局（FSB）16中心所属网络间谍组织，2010年起活跃，针对全球国防、航空、工控、关键基础设施，使用供应链/钓鱼/水坑攻击",
+    "zh_variants": [
+      "蜻蜓组织"
+    ],
+    "en_variants": [
+      "Dragonfly",
+      "TEMP.Isotope",
+      "DYMALLOY",
+      "Berserk Bear",
+      "TG-4192",
+      "Crouching Yeti",
+      "IRON LIBERTY",
+      "Energetic Bear",
+      "Ghost Blizzard",
+      "BROMINE",
+      "G0035"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "CopyKittens组织",
+    "en_core": "CopyKittens",
+    "description": "伊朗网络间谍组织，2013年起活跃，针对以、沙、土、美等国，主导Operation Wilted Tulip行动",
+    "zh_variants": [
+      "复制小猫组织"
+    ],
+    "en_variants": [
+      "CopyKittens",
+      "G0052"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Elderwood组织",
+    "en_core": "Elderwood",
+    "description": "疑似中国网络间谍组织，主导2009年谷歌Operation Aurora入侵事件，针对国防、供应链、人权组织、IT服务提供商",
+    "zh_variants": [
+      "接骨木组织"
+    ],
+    "en_variants": [
+      "Elderwood",
+      "Elderwood Gang",
+      "Beijing Group",
+      "Sneaky Panda",
+      "G0066"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Dark Caracal组织",
+    "en_core": "Dark Caracal",
+    "description": "黎巴嫩总安全局（GDGS）所属威胁组织，2012年起活跃",
+    "zh_variants": [
+      "黑暗狞猫组织"
+    ],
+    "en_variants": [
+      "Dark Caracal",
+      "G0070"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "DarkHydrus组织",
+    "en_core": "DarkHydrus",
+    "description": "2016年起活跃的威胁组织，针对中东政府机构和教育机构，大量使用开源工具和自定义载荷",
+    "zh_variants": [
+      "黑暗水蛇组织"
+    ],
+    "en_variants": [
+      "DarkHydrus",
+      "G0079"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "DarkVishnya组织",
+    "en_core": "DarkVishnya",
+    "description": "经济动机威胁行动者，针对东欧金融机构，2017-2018年攻击至少8家银行",
+    "zh_variants": [
+      "黑暗维什尼亚组织"
+    ],
+    "en_variants": [
+      "DarkVishnya",
+      "G0105"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Earth Lusca组织",
+    "en_core": "Earth Lusca",
+    "description": "疑似中国网络间谍组织，2019年4月起活跃，针对多国机构，部分行动具有经济动机，使用APT41/Winnti Group常用恶意软件但独立",
+    "zh_variants": [
+      "大地卢斯卡组织"
+    ],
+    "en_variants": [
+      "Earth Lusca",
+      "TAG-22",
+      "Charcoal Typhoon",
+      "CHROMIUM",
+      "ControlX",
+      "G1006"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Daggerfly组织",
+    "en_core": "Daggerfly",
+    "description": "中国关联APT实体，2012年起活跃，针对亚非个人、政府/NGO、电信公司，独家使用MgBot恶意软件，涉潜在供应链感染活动",
+    "zh_variants": [
+      "匕首蝇组织"
+    ],
+    "en_variants": [
+      "Daggerfly",
+      "Evasive Panda",
+      "BRONZE HIGHLAND",
+      "G1034"
+    ]
+  },
+  {
+    "entity_type": "apt_organization",
+    "cn_core": "Contagious Interview组织",
+    "en_core": "Contagious Interview",
+    "description": "朝鲜关联威胁组织，2023年起活跃，开展网络间谍和金融攻击，针对软件开发和加密货币从业者",
+    "zh_variants": [
+      "传染性访谈组织"
+    ],
+    "en_variants": [
+      "Contagious Interview",
+      "DeceptiveDevelopment",
+      "Gwisin Gang",
+      "Tenacious Pungsan",
+      "DEV#POPPER",
+      "PurpleBravo",
+      "TAG-121",
+      "G1052"
+    ]
+  }
+]
